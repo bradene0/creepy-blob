@@ -4,3 +4,6 @@
     aspect-ratio: 1;
     position: absolute;
 }
+body {
+    background-color: black;
+}
