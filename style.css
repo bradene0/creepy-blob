@@ -2,7 +2,10 @@
     background-color: white;
     height: 250px;
     aspect-ratio: 1;
-    position: absolute;
+    position: absolute; /*May change to fixed to allow scroll control*/
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
 }
 body {
     background-color: black;
